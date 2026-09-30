@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="352" viewBox="0 0 520 352" role="img" aria-labelledby="title">
+  <title id="title">Ramon Gebben's character sheet</title>
+  <style>
+    text { font-family: Georgia, 'Times New Roman', serif; fill: #1f1a17; }
+    .name { font-size: 26px; font-variant: small-caps; font-weight: bold; fill: #7a1f12; letter-spacing: 0.5px; }
+    .type { font-size: 14px; font-style: italic; }
+    .prop { font-size: 14px; fill: #58180d; }
+    .label { font-size: 14px; font-weight: bold; fill: #7a1f12; }
+    .hint { font-size: 10px; font-style: italic; fill: #6b5e52; }
+  </style>
+  <rect x="3" y="3" width="514" height="346" rx="6" fill="#fdf1dc" stroke="#e0b44c" stroke-width="3"/>
+  <rect x="3" y="3" width="514" height="8" rx="3" fill="#e0b44c"/>
+  <rect x="3" y="341" width="514" height="8" rx="3" fill="#e0b44c"/>
+
+  <text x="28" y="50" class="name">Ramon Gebben</text>
+  <text x="28" y="72" class="type">Medium humanoid (full stack artificer), chaotic good</text>
+  <polygon points="28,84 492,86 28,88" fill="#9c2b1b"/>
+  <text x="28" y="110" class="prop"><tspan class="label">Armor Class</tspan> 47 (followers)</text>
+  <text x="28" y="130" class="prop"><tspan class="label">Hit Points</tspan> 756 (contributions this year)</text>
+  <text x="28" y="150" class="prop"><tspan class="label">Speed</tspan> 30 ft., 21 pull requests</text>
+  <polygon points="28,162 492,164 28,166" fill="#9c2b1b"/>
+  
+    <text x="66.66666666666666" y="188" class="label" text-anchor="middle">STR</text>
+    <text x="66.66666666666666" y="208" class="prop" text-anchor="middle">17 (+3)</text>
+    <text x="66.66666666666666" y="224" class="hint" text-anchor="middle">171 commits</text>
+    <text x="144" y="188" class="label" text-anchor="middle">DEX</text>
+    <text x="144" y="208" class="prop" text-anchor="middle">19 (+4)</text>
+    <text x="144" y="224" class="hint" text-anchor="middle">9 languages</text>
+    <text x="221.33333333333331" y="188" class="label" text-anchor="middle">CON</text>
+    <text x="221.33333333333331" y="208" class="prop" text-anchor="middle">17 (+3)</text>
+    <text x="221.33333333333331" y="224" class="hint" text-anchor="middle">14 day streak</text>
+    <text x="298.6666666666667" y="188" class="label" text-anchor="middle">INT</text>
+    <text x="298.6666666666667" y="208" class="prop" text-anchor="middle">19 (+4)</text>
+    <text x="298.6666666666667" y="224" class="hint" text-anchor="middle">82 repos</text>
+    <text x="376" y="188" class="label" text-anchor="middle">WIS</text>
+    <text x="376" y="208" class="prop" text-anchor="middle">16 (+3)</text>
+    <text x="376" y="224" class="hint" text-anchor="middle">15 critiques</text>
+    <text x="453.3333333333333" y="188" class="label" text-anchor="middle">CHA</text>
+    <text x="453.3333333333333" y="208" class="prop" text-anchor="middle">21 (+5)</text>
+    <text x="453.3333333333333" y="224" class="hint" text-anchor="middle">844 stars earned</text>
+  <polygon points="28,238 492,240 28,242" fill="#9c2b1b"/>
+  <text x="28" y="264" class="prop"><tspan class="label">Skills</tspan> JavaScript +38, TypeScript +12, HTML +7, Shell +4, Ruby +3</text>
+  <text x="28" y="284" class="prop"><tspan class="label">Senses</tspan> passive Perception 336 (repos starred)</text>
+  <text x="28" y="304" class="prop"><tspan class="label">Languages</tspan> Common, Dutch, Undercommon (regex)</text>
+  <text x="28" y="324" class="prop"><tspan class="label">Challenge</tspan> 13 (years on GitHub)</text>
+</svg>
