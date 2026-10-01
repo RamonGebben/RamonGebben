@@ -16,13 +16,13 @@
   <text x="28" y="72" class="type">Medium humanoid (full stack artificer), chaotic good</text>
   <polygon points="28,84 492,86 28,88" fill="#9c2b1b"/>
   <text x="28" y="110" class="prop"><tspan class="label">Armor Class</tspan> 47 (followers)</text>
-  <text x="28" y="130" class="prop"><tspan class="label">Hit Points</tspan> 757 (contributions this year)</text>
-  <text x="28" y="150" class="prop"><tspan class="label">Speed</tspan> 30 ft., 22 pull requests</text>
+  <text x="28" y="130" class="prop"><tspan class="label">Hit Points</tspan> 804 (contributions this year)</text>
+  <text x="28" y="150" class="prop"><tspan class="label">Speed</tspan> 30 ft., 23 pull requests</text>
   <polygon points="28,162 492,164 28,166" fill="#9c2b1b"/>
   
     <text x="66.66666666666666" y="188" class="label" text-anchor="middle">STR</text>
     <text x="66.66666666666666" y="208" class="prop" text-anchor="middle">17 (+3)</text>
-    <text x="66.66666666666666" y="224" class="hint" text-anchor="middle">171 commits</text>
+    <text x="66.66666666666666" y="224" class="hint" text-anchor="middle">217 commits</text>
     <text x="144" y="188" class="label" text-anchor="middle">DEX</text>
     <text x="144" y="208" class="prop" text-anchor="middle">19 (+4)</text>
     <text x="144" y="224" class="hint" text-anchor="middle">9 languages</text>
