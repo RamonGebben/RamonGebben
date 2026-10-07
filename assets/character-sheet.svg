@@ -40,7 +40,7 @@
     <text x="453.3333333333333" y="224" class="hint" text-anchor="middle">844 stars earned</text>
   <polygon points="28,238 492,240 28,242" fill="#9c2b1b"/>
   <text x="28" y="264" class="prop"><tspan class="label">Skills</tspan> JavaScript +40, TypeScript +14, HTML +7, Shell +4, Ruby +3</text>
-  <text x="28" y="284" class="prop"><tspan class="label">Senses</tspan> passive Perception 336 (repos starred)</text>
+  <text x="28" y="284" class="prop"><tspan class="label">Senses</tspan> passive Perception 337 (repos starred)</text>
   <text x="28" y="304" class="prop"><tspan class="label">Languages</tspan> Common, Dutch, Undercommon (regex)</text>
   <text x="28" y="324" class="prop"><tspan class="label">Challenge</tspan> 13 (years on GitHub)</text>
 </svg>
