@@ -16,8 +16,8 @@
   <text x="28" y="72" class="type">Medium humanoid (full stack artificer), chaotic good</text>
   <polygon points="28,84 492,86 28,88" fill="#9c2b1b"/>
   <text x="28" y="110" class="prop"><tspan class="label">Armor Class</tspan> 47 (followers)</text>
-  <text x="28" y="130" class="prop"><tspan class="label">Hit Points</tspan> 933 (contributions this year)</text>
-  <text x="28" y="150" class="prop"><tspan class="label">Speed</tspan> 30 ft., 33 pull requests</text>
+  <text x="28" y="130" class="prop"><tspan class="label">Hit Points</tspan> 935 (contributions this year)</text>
+  <text x="28" y="150" class="prop"><tspan class="label">Speed</tspan> 30 ft., 35 pull requests</text>
   <polygon points="28,162 492,164 28,166" fill="#9c2b1b"/>
   
     <text x="66.66666666666666" y="188" class="label" text-anchor="middle">STR</text>
