@@ -16,8 +16,8 @@
   <text x="28" y="72" class="type">Medium humanoid (full stack artificer), chaotic good</text>
   <polygon points="28,84 492,86 28,88" fill="#9c2b1b"/>
   <text x="28" y="110" class="prop"><tspan class="label">Armor Class</tspan> 47 (followers)</text>
-  <text x="28" y="130" class="prop"><tspan class="label">Hit Points</tspan> 938 (contributions this year)</text>
-  <text x="28" y="150" class="prop"><tspan class="label">Speed</tspan> 30 ft., 35 pull requests</text>
+  <text x="28" y="130" class="prop"><tspan class="label">Hit Points</tspan> 941 (contributions this year)</text>
+  <text x="28" y="150" class="prop"><tspan class="label">Speed</tspan> 30 ft., 37 pull requests</text>
   <polygon points="28,162 492,164 28,166" fill="#9c2b1b"/>
   
     <text x="66.66666666666666" y="188" class="label" text-anchor="middle">STR</text>
@@ -37,10 +37,10 @@
     <text x="376" y="224" class="hint" text-anchor="middle">15 critiques</text>
     <text x="453.3333333333333" y="188" class="label" text-anchor="middle">CHA</text>
     <text x="453.3333333333333" y="208" class="prop" text-anchor="middle">21 (+5)</text>
-    <text x="453.3333333333333" y="224" class="hint" text-anchor="middle">846 stars earned</text>
+    <text x="453.3333333333333" y="224" class="hint" text-anchor="middle">845 stars earned</text>
   <polygon points="28,238 492,240 28,242" fill="#9c2b1b"/>
   <text x="28" y="264" class="prop"><tspan class="label">Skills</tspan> JavaScript +40, TypeScript +14, HTML +7, Shell +4, Ruby +3</text>
-  <text x="28" y="284" class="prop"><tspan class="label">Senses</tspan> passive Perception 336 (repos starred)</text>
+  <text x="28" y="284" class="prop"><tspan class="label">Senses</tspan> passive Perception 337 (repos starred)</text>
   <text x="28" y="304" class="prop"><tspan class="label">Languages</tspan> Common, Dutch, Undercommon (regex)</text>
   <text x="28" y="324" class="prop"><tspan class="label">Challenge</tspan> 13 (years on GitHub)</text>
 </svg>
